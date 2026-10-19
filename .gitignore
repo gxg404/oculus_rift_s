@@ -1,0 +1,7 @@
+.vs/
+Logs/
+Library/
+Temp/
+.vsconfig
+.DS_Store
+*/.DS_Store
